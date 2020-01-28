@@ -1,1 +1,5 @@
-CAT percentile: 98.39
+- CAT percentile 2019: 98.39
+- JEE Advanced 2016 AIR (CRL) : 4949
+- JEE Mains 2016 AIR (CRL) : 10000+ ; Marks : 198
+- NEET (earlier known as AIPMT) 2016 AIR : 10000+
+- Got Job offer in 1MG Technologies Private Limited ; Role: Software Engineer
