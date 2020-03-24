@@ -3,3 +3,4 @@
 - JEE Mains 2016 AIR (CRL) : 10000+ ; Marks : 198
 - NEET (earlier known as AIPMT) 2016 AIR : 10000+
 - Got Job offer in 1MG Technologies Private Limited ; Role: Software Engineer
+- GATE 2020 AIR : 2042; Marks : 49/100; Score : 589/1000
